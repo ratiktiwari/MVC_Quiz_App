@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVC Quiz App</string>
+    <string name="true_string">true</string>
+    <string name="false_string">false</string>
+    <string name="question_declaration">The (U.S.) Declaration of Independence was Adopted in 1776.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_constitution">The Supreme law of the land is the Constitution.</string>
+    <string name="question_amendments">The (U.S.) Constitution has 26 Amendments.</string>
+    <string name="question_independence_rights">The two rights in the Declaration of Independence are: \n pursuit of happiness.</string>
+    <string name="question_religion">Freedom of religion means:\n You can practice any religion, or not practice a religion.</string>
+    <string name="question_government">Journalists is one branch or part of the government.</string>
+    <string name="question_government_feds">Congress does not make federal laws.</string>
+    <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
+    <string name="next_text">next</string>
+    <string name="image_logo">Image Logo</string>
+</resources>
